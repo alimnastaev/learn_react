@@ -1,6 +1,7 @@
 # Learn React
 
-Kent C Dodds' YouTube clinic `The introduction to React you've been missing: https://www.youtube.com/watch?v=SAIdyBFHfVU
+Kent C Dodds' YouTube clinic `The introduction to React you've been missing: 
+https://www.youtube.com/watch?v=SAIdyBFHfVU
 
 - https://babeljs.io/ - REPL
 
